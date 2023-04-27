@@ -41,4 +41,17 @@ if(PodeComprar && destinoExiste){
 }else{
     console.log("Desculpa... Houve um erro!");
 }
+
+//necessita de 3 condições
+// a do meio é o contador, condição para entrar em loop
+// o primeiro é a inicialização da variável de loop
+// o terceiro comando é o comando de modificar o contador
+//atalho para somar +1  |  cont++
+
+//exemplo de for
+// for(let i ; i > 3 ; i++ ){
+//     if(listaDeDestinos[i] == destino){
+//         destinoExiste = true;
+//     }
+// }
   
